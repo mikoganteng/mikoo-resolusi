@@ -7,8 +7,10 @@ dengan belajar di bawah ini
 
 RENCANA BALAJAR PEMROGAMAN menjadi back end development
 
--java
+-JAVA SCRIPT
 -PHP FRAMEWORK
 -HARUS BISA CRUD
+-java
 
 nb: selalulah praktek, dan belajar dari beberapa masalah
+
