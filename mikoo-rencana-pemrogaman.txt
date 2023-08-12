@@ -1,6 +1,8 @@
-RENCANA BALAJAR PEMROGAMAN
+RENCANA BALAJAR PEMROGAMAN menjadi front end development
 
+dengan belajar di bawah ini
 -HTML & CSS
 -JAVA SCRIPT
+-belajar singular dan react
 -PHP FRAMEWORK
 -HARUS BISA CRUD
