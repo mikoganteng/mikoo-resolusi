@@ -4,5 +4,9 @@ dengan belajar di bawah ini
 -HTML & CSS
 -JAVA SCRIPT
 -belajar singular dan react
+
+RENCANA BALAJAR PEMROGAMAN menjadi back end development
+
 -PHP FRAMEWORK
 -HARUS BISA CRUD
+-dan bahasa java
